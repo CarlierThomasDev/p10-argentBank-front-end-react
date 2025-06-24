@@ -12,7 +12,7 @@ import "./styles/components/userContent.css";
 import "./styles/pages/signIn.css";
 import "./styles/pages/user.css";
 import "./index.css";
-import "./styles/components/modal.css";
+import "./styles/components/modal.css"; 
 
 createRoot(document.getElementById('root')).render(
   <Provider store={store}>
